@@ -7,16 +7,16 @@ TEST TASK:
 we use node.js, graphQL, Apollo Server and Typescript.
 Use these technologies to create an application that has two lists:
 
-fruit
-vegetables
+* fruit
+* vegetables
 
 For each of the lists, endpoints must be created to allow:
 
-displaying the list
-displaying a single list item
-addition
-editing
-component removal
+* displaying the list
+* displaying a single list item
+* addition
+* editing
+* component removal
 
 An authorization and authentication mechanism must also be created, including three roles:
 
